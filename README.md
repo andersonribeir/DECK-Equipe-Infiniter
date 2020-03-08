@@ -2,6 +2,7 @@
 This project was bootstrapped with Create React App.
 
 Available Scripts
+Extract the archives .zip (is possible a .zip in other .zip because github)
 In the project directory, you can run:
 
 npm install -g create-react-app
